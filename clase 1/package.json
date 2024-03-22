@@ -1,0 +1,19 @@
+{
+  "name": "clase1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js",
+    "dev": "node main.js"
+  },
+  "keywords": [],
+  "author": "la profe",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "nodemon": "^3.1.0"
+  }
+}

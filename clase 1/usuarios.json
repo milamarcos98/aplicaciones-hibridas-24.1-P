@@ -1,0 +1,7 @@
+{
+    "usuarios": [
+        {"nombre": "Juan", "carrare": "Diseño Web"},
+        {"nombre": "Pepe", "carrare": "Diseño Multimedial"},
+        {"nombre": "Carlos", "carrare": "Diseño Multimedial"}
+    ]
+}
