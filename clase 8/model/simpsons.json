@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "nombre": "Homer",
+    "apellido": "Simpson",
+    "edad": 40,
+    "trabajo": "Trabajador en la Planta Nuclear de Springfield",
+    "hobbie": "Ver televisión"
+  },
+  {
+    "id": 2,
+    "nombre": "Marge",
+    "apellido": "Simpson",
+    "edad": 38,
+    "trabajo": "Ama de casa",
+    "hobbie": "Cocinar"
+  },
+  {
+    "id": 3,
+    "nombre": "Bart",
+    "apellido": "Simpson",
+    "edad": 10,
+    "trabajo": "Estudiante",
+    "hobbie": "Skateboarding"
+  },
+  {
+    "id": 4,
+    "nombre": "Lisa",
+    "apellido": "Simpson",
+    "edad": 8,
+    "trabajo": "Estudiante",
+    "hobbie": "Tocar el saxofón"
+  },
+  {
+    "id": 5,
+    "nombre": "Maggie",
+    "apellido": "Simpson",
+    "edad": 1,
+    "trabajo": "Bebé",
+    "hobbie": "Chupar su chupete"
+  },
+  {
+    "id": 6,
+    "nombre": "Ned",
+    "apellido": "Flanders",
+    "edad": 42,
+    "trabajo": "Dueño de la Tienda de Maquetas",
+    "hobbie": "Hacer obras de caridad"
+  },
+  {
+    "id": 7,
+    "nombre": "Montgomery",
+    "apellido": "Burns",
+    "edad": 104,
+    "trabajo": "Dueño de la Planta Nuclear de Springfield",
+    "hobbie": "Ser malvado"
+  },
+  {
+    "id": 8,
+    "nombre": "Moe",
+    "apellido": "Szyslak",
+    "edad": 45,
+    "trabajo": "Dueño de la Taberna de Moe",
+    "hobbie": "Limpiar el bar"
+  },
+  {
+    "id": 9,
+    "nombre": "Apu",
+    "apellido": "Nahasapeemapetilon",
+    "edad": 45,
+    "trabajo": "Dueño de la Tienda de Kwik-E-Mart",
+    "hobbie": "Contar dinero"
+  },
+  {
+    "id": 10,
+    "nombre": "Krusty",
+    "apellido": "el Payaso",
+    "edad": 55,
+    "trabajo": "Payaso y Presentador de Televisión",
+    "hobbie": "Realizar trucos de magia"
+  },
+  {
+    "id": 11,
+    "nombre": "Camila",
+    "apellido": "Marcos",
+    "edad": 55,
+    "trabajo": "Profe",
+    "hobbie": "Realizar trucos de magia"
+  }
+]
