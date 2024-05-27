@@ -1,0 +1,45 @@
+.toast-container{
+    font-size: 14px;
+    position: absolute;
+    border-radius: 10px;
+    p{
+        padding: 1rem 3rem;
+        color: white;
+    }
+    &.toast-{
+        &success{
+            background-color: rgb(23, 122, 23);
+            box-shadow: rgb(19, 113, 19) 4px 4px 6px;
+        }
+
+        &info{
+            background-color: rgb(23, 149, 149);
+            box-shadow: rgb(12, 95, 87) 4px 4px 6px;
+        }
+
+        &warning{
+            background-color: rgb(200, 192, 34);
+            box-shadow: rgb(152, 121, 19) 4px 4px 6px;
+        }
+
+        &danger{
+            background-color: rgb(175, 21, 21);
+            box-shadow: rgb(104, 13, 13) 4px 4px 6px;
+        }
+        
+    }
+    &.position-{
+        &top-right{
+            top: 10px;
+            right: 10px;
+        }
+
+        &top-left{
+            top: 10px;
+            left: 10px;
+        }
+        
+    }
+}
+
+
