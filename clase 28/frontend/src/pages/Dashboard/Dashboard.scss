@@ -1,0 +1,9 @@
+.board{
+    display: flex;
+    gap: 20px;
+    .column{
+        border: solid pink 2px;
+        border-radius: 5px;
+        padding: 1rem;
+    }
+}
